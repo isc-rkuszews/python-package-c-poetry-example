@@ -1,0 +1,10 @@
+bobtest/__init__.py,sha256=PpiuBsSmaSSg7gds6f7i69c1wiqYpbl7P3zl3gSvh9E,59
+bobtest/echo.py,sha256=i0JVT7SPyLQH7by9ufK2lbrWAM1HQjjhVdWKzP1rGuM,260
+bobtest/ext.cpython-311-darwin.so,sha256=KHaFpxeFKfnU61GUzA7hyzMuSWTFhgdhiGQoA7kUmA4,50152
+bobtest/math/__init__.py,sha256=O6OVhC4_xeJ4PzZN66QDYS6oDv2Fc3dEJK7u1lSOGfI,31
+bobtest/math/cmath.cpython-311-darwin.so,sha256=enLj-bmep-o13Cl-5haFX3o5Hh8p1fOPKMRAKzifohw,50096
+bobtest/math/cmath.cpython-312-x86_64-linux-gnu.so,sha256=9MIphA8zHW0xeeSwJ1q0ZgwcSyyvbO0yvC6KPy3fE2o,24096
+bobtest-0.1.1a3.dist-info/LICENSE,sha256=ogEPNDSH0_dhiv_lT3ifVIdgIzHAqNA_SemnxUfPBJk,7048
+bobtest-0.1.1a3.dist-info/METADATA,sha256=oGeTZi2SOmihr0_2M6xs0BjS1EtaBJvFgK6SwDiPUto,507
+bobtest-0.1.1a3.dist-info/WHEEL,sha256=7yMI3wfzphog3o9IeRleCsVxA94L51tG_LFJ0T467fw,107
+bobtest-0.1.1a3.dist-info/RECORD,,
